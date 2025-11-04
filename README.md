@@ -1,7 +1,7 @@
 Hanchen Liu 👋
 
 I build high‑performance, reproducible simulators for quantum information & statistical physics.
-	•	Now: CTMC for disordered spin systems; iTEBD/iMPS with U(1) conservation; clean, testable C++20 tools.
+	•	Now: CTMC for disordered spin systems; iTEBD/iMPS; clean, testable C++20 tools.
 	•	Interests: quantum error correction, Monte Carlo, tensor networks.
 	•	Toolbox: C++20 · Python · Julia · MATLAB ·  SLURM · GitHub Actions.
 
