@@ -1,6 +1,14 @@
-## Hi there 👋
+Hanchen Liu 👋
 
-<!--
-**HCPhy/HCPhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high‑performance, reproducible simulators for quantum information & statistical physics.
+	•	Now: CTMC for disordered spin systems; iTEBD/iMPS with U(1) conservation; clean, testable C++20 tools.
+	•	Interests: quantum error correction, Monte Carlo, tensor networks.
+	•	Toolbox: C++20 · Python · Julia · MATLAB ·  SLURM · GitHub Actions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HCPhy&hide=jupyter%20notebook,mathematica&size_weight=0.5&count_weight=0.5)
+
+⸻
+
+
+### Language stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HCPhy&layout=compact&langs_count=8&hide_title=true)
+
