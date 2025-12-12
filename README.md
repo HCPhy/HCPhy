@@ -11,7 +11,6 @@ I build high‑performance, reproducible simulators for quantum information & st
 
 ⸻
 
-
 ### Language stats
-[![Top Langs](https://github-readme-stats-nine-mauve-12.vercel.app/api/top-langs/?username=HCPhy&layout=compact&langs_count=8&hide_title=true&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-mauve-12.vercel.app/api/top-langs/?username=HCPhy&layout=compact&langs_count=8&hide_title=true&cache_seconds=7200&hide=Mathematica,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
